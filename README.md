@@ -1,4 +1,4 @@
-# webdevelopment
+# webdevelopment/Temperature converter
 This project is based on web devlopment
-I have created temperature converter and
-Netflix clone using HTML,CSS & JSCRIPT
+I have created temperature converter using
+ HTML,CSS & JSCRIPT
